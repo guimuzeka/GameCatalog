@@ -1,2 +1,3 @@
 # GameCatalog
 Um projeto para criar um sistema para o gerenciamento de um  catálogo de jogos
+  Este foi o meu primeiro grande projeto na área que estou estudando atualmente! Muitas das coisas que utilizei para tentar desenvolver o sistema foram novidade para mim e aprendi sobre elas nessa minha tentativa. Infelizmente, não consegui concluir o sistema e fiquei preso na parte do backend (onde descobri que um sistema que parece simples pode ser bem extenso hahaha). Agradeço pela oportunidade e gostaria de dizer que, para mim, foi uma grande experiência e pretendo terminar esse sistema e criar vários outros para me tornar cada dia mais competente na área. Novamente, agradeço pelo desafio e oportunidade e desejo a todos uma ótima semana!
